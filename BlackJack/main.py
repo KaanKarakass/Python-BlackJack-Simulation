@@ -105,7 +105,7 @@ def blackjack(Deck):
 
         print("Player2 Cards: ", end=" ")
         print_card(player2, player2_score, 0)
-        print("Deader Cards: ", end=" ")
+        print("Dealer Cards: ", end=" ")
         print_card(dealer, dealer_score, 1)
 
         #automatic card take
